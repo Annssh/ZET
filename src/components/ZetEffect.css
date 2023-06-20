@@ -1,0 +1,22 @@
+#zeteffect {
+    background-color: rgb(20, 92, 197);
+    padding-top: 10vw;
+    padding-bottom: 10vw;
+    clip-path: polygon(0% 25%, 100% 0%, 100% 75%, 0% 100%);
+    height: 100%;
+    width: 100%;
+}
+
+#zetimage {
+    clip-path: polygon(0px 30%, 100% 0%, 100% 70%, 0px 100%);
+    background-color: rgb(65, 127, 218);
+    display: flex;
+    border-radius: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-top: 7vw;
+    padding-bottom: 3vw;
+    /* padding-left: 30%; */
+    margin-left: 20%;
+    width: 50%;
+}

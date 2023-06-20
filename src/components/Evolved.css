@@ -1,0 +1,9 @@
+#evolved {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.evolvedimg {
+    width: 90%;
+}
