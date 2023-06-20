@@ -28,7 +28,7 @@ const Header = () => {
             >
               <ul className="navbar-nav me-auto mb-2 mb-lg-0" id="unordered">
                 <li className="nav-item">
-                  <Link className="nav-link active" aria-current="page" to="/">
+                  <Link className="nav-link active" aria-current="page" to="/ZET">
                     Home
                   </Link>
                 </li>
@@ -36,10 +36,10 @@ const Header = () => {
                   <Link className="nav-link active" to="/about">About Us</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link active" to="/">Partner With Us</Link>
+                  <Link className="nav-link active" to="/ZET">Partner With Us</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link active" to="/">Blog</Link>
+                  <Link className="nav-link active" to="/ZET">Blog</Link>
                 </li>
                 <li className="nav-item">
                   <button type="button" class="btn btn-primary">
