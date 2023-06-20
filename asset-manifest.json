@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ZET/static/css/main.58a47a90.css",
+    "main.js": "/ZET/static/js/main.ac45b60d.js",
+    "static/media/office.png": "/ZET/static/media/office.d469174d82f211b452be.png",
+    "static/media/footer.png": "/ZET/static/media/footer.62b4d1508dbde5bd8fc6.png",
+    "static/media/ourmission.png": "/ZET/static/media/ourmission.1ce3cd019ea18185da9c.png",
+    "static/media/founder.png": "/ZET/static/media/founder.4725afd90961ba8e87f3.png",
+    "static/media/whychoose.png": "/ZET/static/media/whychoose.985c253d6aefedec345c.png",
+    "static/media/evolved.png": "/ZET/static/media/evolved.93488b71100f61d010e2.png",
+    "static/media/yesbank.png": "/ZET/static/media/yesbank.4994fa5ce212d7fd1fda.png",
+    "static/media/zeteffect.png": "/ZET/static/media/zeteffect.199571b1d6e4de3627b5.png",
+    "static/media/icicibank.png": "/ZET/static/media/icicibank.52ad190ed8da1e20a68e.png",
+    "static/media/indusindbank.png": "/ZET/static/media/indusindbank.a96d4a3424325d3424c5.png",
+    "static/media/axisbank.png": "/ZET/static/media/axisbank.615819be3d2cba33c41c.png",
+    "static/media/zet_logo.png": "/ZET/static/media/zet_logo.6874bdde3c99dd286460.png",
+    "static/media/googleplay.png": "/ZET/static/media/googleplay.8a33ae839f3f3574106d.png",
+    "static/media/1.png": "/ZET/static/media/1.6f44c6b3e2f464aa15a1.png",
+    "index.html": "/ZET/index.html",
+    "main.58a47a90.css.map": "/ZET/static/css/main.58a47a90.css.map",
+    "main.ac45b60d.js.map": "/ZET/static/js/main.ac45b60d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a47a90.css",
+    "static/js/main.ac45b60d.js"
+  ]
+}
